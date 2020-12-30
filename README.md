@@ -1,2 +1,2 @@
-# project
-In this repo we encounter more advance concept of HTML &amp; CSS.
+# Project2
+This repo is based on some advanced features of HTML & CSS like applying background image, usage of buttons, opacity of letters, creating link, creating 3D buttton, and applying CSS on clicking button.
